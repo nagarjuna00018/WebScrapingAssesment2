@@ -24,7 +24,7 @@ Before running the script, ensure you have the following installed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/nagarjuna00018/book-details-scraper.git
+git clone https://github.com/nagarjuna00018/WebScrapingAssesment2.git
 ```
 
 2. Install the required Python libraries:
